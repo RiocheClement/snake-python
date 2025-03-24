@@ -12,9 +12,13 @@ Possibilité de mettre le jeu en pause
 
 ## Contrôles
 Flèches directionnelles : Diriger le serpent
+
 P : Mettre le jeu en pause
+
 C : Commencer une partie / Rejouer après un Game Over
+
 Q : Quitter le jeu
+
 Espace : Reprendre le jeu (en mode pause)
 
 ## Prérequis
@@ -26,12 +30,13 @@ Assurez-vous d'avoir Python installé sur votre système. Vous pouvez le téléc
 
 Installez la bibliothèque Pygame :
 
-pip install pygame
+```pip install pygame```
 
 Téléchargez les fichiers du jeu ou clonez ce dépôt.
 
 Exécutez le jeu :
-```bash python snake.py```
+
+```python snake.py```
 
 
 ## Comment jouer
